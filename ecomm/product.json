@@ -1,0 +1,321 @@
+[ { "product_name": "600ML Coca Cola Cold Drinks",
+"category": "beverages",
+"price":  30,
+"desc": "The Coca-Cola Company (NYSE: KO) is the world’s largest beverage company, refreshing consumers with more than 500 sparkling and  still brands and nearly 3,900 beverage choices  , Packaging Type: Bottle  Form: Liquid Available Packaging Size: 600ML ,Ingredient:CarbonatedWater,Acidity Regulator (338), Sweeteners (951, 950), Preservative (211), Caffeine. Conta ",
+"made_in": "India",
+"image": " shop/images/600ml coke.jpg",
+"image_1": "shop/images/coca1.jpg",
+"image_2": "shop/images/coca2.jpg"
+},
+
+{ "product_name": "Black 250 ML Coca Cola Cold Drink",
+"category": "beverages",
+"price":  20,
+"desc": "The Coca-Cola Company (NYSE: KO) is the world’s largest beverage company, refreshing consumers with more than 500 sparkling and still brands and nearly 3,900 beverage choices . Packaging Type: Carton ,Form: Liquid  Available Packaging Size: 250ML,Ingredient: Carbonated Water, Acidity Regulator (338), Sweeteners (951, 950), Preservative (211), Caffeine. Conta",
+"made_in": "India",
+"image_2": "shop/images/250ml coke.jpg",
+"image_1": "shop/images/coca3.jpg" },
+
+
+{ "product_name": "Mountain Dew Cold Drink",
+"category": "beverages",
+"price":  65,
+
+"desc": "Mountain Dew (stylized as Mtn Dew) is a carbonated soft drink brand produced and owned by PepsiCo Packaging Type: Bottles , Form: Liquid,Available Packaging Size: 1L",
+"made_in": "India",
+"image": "shop/images/mdew1.jpg",
+"image_1": "shop/images/dew3.jpg",
+"image_2": "shop/images/dew5.jpg"},
+
+
+{ "product_name": "Mountain Dew Cold Drink",
+"category": "beverages",
+"price":  35,
+"desc": "Mountain Dew (stylized as Mtn Dew) is a carbonated soft drink brand produced and owned by PepsiCo ,Packaging Type: Bottles,Form: Liquid,Available Packaging Size: 750ML",
+"made_in": "India",
+"image_2": "shop/images/dew1.jpg",
+"image_1": "shop/images/750ml dew.jpg"},
+
+
+{ "product_name": "PepsiCo Lime and Lemon Mountain Dew Carbonated Drinks Can",
+"category": "beverages",
+"price":   45,
+ "desc": "Mountain Dew (stylized as Mtn Dew) is a carbonated soft drink brand produced and owned by PepsiCo Packaging Type: Carton, Liquid,  Flavor: Lime and Lemon, Packaging Type: Carton, Form: Liquid,Packaging Size: 250ml and 600ml, Carbonated: Yes,",
+"made_in": "India",
+"image_2": "shop/images/can dew.jpg",
+"image_1": "shop/images/dew2.jpg"},
+
+
+{ "product_name": "PepsiCo Lime and Lemon Mountain Dew Carbonated Drinks ",
+"category": "beverages",
+"price":  25,
+"desc": "Mountain Dew (stylized as Mtn Dew) is a carbonated soft drink brand produced and owned by PepsiCo  Packaging Type: Carton, Liquid,Flavor: Lime and Lemon,Packaging Type: Bottles,Form: Liquid,Packaging Size: 250ml,Carbonated: Yes,",
+"made_in": "India",
+"image_1": "shop/images/250ml dew.jpg"},
+
+
+
+
+{ "product_name": "Sprite Soft Drink - Lime Flavoured",
+"category": "beverages",
+"price":  95,
+
+"desc": "Sprite is a colorless, lemon and lime-flavored soft drink created by The Coca-Cola Company. It was first developed in West Germany in 1959 as Fanta Klare Zitrone         Packaging Type: Bottles,Form: Liquid,Available Packaging Size: 2L",
+"made_in": "India",
+"image_1": "shop/images/sprite1.jpg",
+"image_2": "shop/images/sprite3.jpg"},
+
+
+{ "product_name": "Sprite Soft Drink - Lime Flavoured",
+"category": "beverages",
+"price":  40,
+
+"desc": "Sprite is a colorless, lemon and lime-flavored soft drink created by The Coca-Cola Company. It was first developed in West Germany in 1959 as Fanta Klare Zitrone ,Packaging Type: Bottles, Form: Liquid,Available Packaging Size: 750mL ,",
+"made_in": "India",
+"image": "shop/images/sprite1.jpg",
+"image_1": "shop/images/sprite3.jpg",
+"image_2": "shop/images/sprite4.jpg"},
+
+
+{ "product_name": "Sprite Soft Drink - Lime Flavoured",
+"category": "beverages",
+"price":  53,
+
+"desc": "Sprite is a colorless, lemon and lime-flavored soft drink created by The Coca-Cola Company. It was first developed in West Germany in 1959 as Fanta Klare Zitrone ,Packaging Type: Bottles, Form: Liquid,Available Packaging Size: 300mL",
+"made_in": "India",
+"image_1": "shop/images/sprite2.jpg"},
+
+
+{ "product_name": "Coca- Cola 600 ml Fanta Cold drink",
+"category": "beverages",
+"price":  40,
+
+"desc": "Fanta is a brand of fruit-flavored carbonated soft drinks created by Coca-Cola Deutschland under the leadership of German businessman Max Keith.   Packaging Type: Bottles,Form: Liquid,Available Packaging Size: 600ml",
+"made_in": "India",
+"image_1": "shop/images/fanta2.jpg"},
+
+
+{ "product_name": "Coca- Cola 2.25L Fanta Cold drink",
+"category": "beverages",
+"price":  95,
+
+"desc": "Fanta is a brand of fruit-flavored carbonated soft drinks created by Coca-Cola Deutschland under the leadership of German businessman Max Keith  Packaging Type: Bottles,Form: Liquid,Available Packaging Size: 2.25 L",
+"made_in": "India",
+"image": "shop/images/fanta3.jpg",
+"image_1": "shop/images/fanta4.jpg",
+"image_2": "shop/images/fanta5.jpg"},
+
+
+{ "product_name": "Coca- Cola 250ml Fanta Cold drink",
+"category": "beverages",
+"price":  20,
+
+"desc": "Fanta is a brand of fruit-flavored carbonated soft drinks created by Coca-Cola Deutschland under the leadership of German businessman Max Keith.   Packaging Type: Bottle,Form: Liquid,Available Packaging Size: 250ml",
+"made_in": "India",
+"image1": "shop/images/fanta1.jpg"},
+
+
+{ "product_name": "Soft Drink Maaza Mango Cold Drink",
+"category": "beverages",
+"price":  28.5,
+
+"desc": "Maaza, in India, is synonymous with the very spirit of mangoes. Enjoy the deliciously thick, sweet and a delightful mango experience with a chilled glass of Maaza, a quality product of The Coca-Cola Company. Maaza, the indulging, ready-to-serve mango drink, is made from mango pulp and handpicked AlphonsoPackaging Type: Bottles,Form: Liquid,Available Packaging Size: 600ml",
+"made_in": "India",
+"image": "shop/images/maaza1.jpg",
+"image_1": "shop/images/maaza2.jpg"},
+
+
+{ "product_name": "Soft Drink Maaza Mango Cold Drink",
+"category": "beverages",
+"price":  10,
+
+"desc": "Maaza, in India, is synonymous with the very spirit of mangoes. Enjoy the deliciously thick, sweet and a delightful mango experience with a chilled glass of Maaza, a quality product of The Coca-Cola Company. Maaza, the indulging, ready-to-serve mango drink, is made from mango pulp and handpicked Alphonso.Packaging Type: Bottles,Form: Liquid,Available Packaging Size: 100ml",
+"made_in": "India",
+"image_1": "shop/images/maaza3.jpg"},
+
+
+{ "product_name": "Soft Drink Mirinda Cold Drink",
+"category": "beverages",
+"price":  80,
+
+"desc": "Mirinda is a brand of soft drink originally created in Spain in 1959 and now owned by PepsiCo with global distribution. Its name may come from Esperanto, meaning 'admirable' or 'amazing' ,Packaging Type: Bottles,Form: Liquid,Available Packaging Size: 2.25 L",
+"made_in": "India",
+"image_2": "shop/images/mirinda2.jpg",
+"image_1": "shop/images/mirinda4.jpg"},
+
+{ "product_name": "Soft Drink Mirinda Cold Drink",
+"category": "beverages",
+"price":  35,
+
+"desc": "Mirinda is a brand of soft drink originally created in Spain in 1959 and now owned by PepsiCo with global distribution. Its name may come from Esperanto, meaning 'admirable' or 'amazing',Packaging Type: Bottles,Form: Liquid,Available Packaging Size: 600 mL",
+"made_in": "India",
+"image_1": "shop/images/mirinda1.jpg"},
+
+
+{ "product_name": "Pepsi",
+"category": "beverages",
+"price":  25,
+
+"desc": "Pepsi is a carbonated soft drink manufactured by PepsiCo. Originally created and developed in 1893 by Caleb Bradham and introduced as Brad's Drink, it was renamed as Pepsi-Cola  Packaging Type: Bottles,Form: Liquid,Available Packaging Size: 600 mL",
+"made_in": "India",
+"image_1": "shop/images/25 ml pepsi.jpg"},
+
+{ "product_name": "Pepsi",
+"category": "beverages",
+"price":  80,
+
+"desc": "Pepsi is a carbonated soft drink manufactured by PepsiCo. Originally created and developed in 1893 by Caleb Bradham and introduced as Brad's Drink, it was renamed as Pepsi-Cola,Packaging Type: Bottles,Form: Liquid,Available Packaging Size: 2L",
+"made_in": "India",
+"image": "shop/images/2l pepsi.jpg",
+"image_1": "shop/images/pepsi1.jpg",
+"image_2": "shop/images/pepsi3.jpg"},
+
+
+
+{ "product_name": "Pepsi Can",
+"category": "beverages",
+"price":  25,
+
+"desc": "Pepsi is a carbonated soft drink manufactured by PepsiCo. Originally created and developed in 1893 by Caleb Bradham and introduced as Brad's Drink, it was renamed as Pepsi-Cola,    Packaging Type: Cans, Form: Liquid, Available Packaging Size: 250 mL",
+"made_in": "India",
+"image_1": "shop/images/pepsi2.jpg"},
+
+
+{ "product_name": "Tata Tea Agni Tea leaves",
+"category": "beverages",
+"price":  180,
+"desc": "Tata Consumer Products Limited, formerly Tata Global Beverages Limited, is an Indian multinational non-alcoholic beverages company headquartered in Kolkata, West Bengal, India and a subsidiary of the Tata Group.Packaging Type: Packets, Form: Powder, Available Packaging Size: 1 kg.",
+"made_in": "India",
+"image_1": "shop/images/tata2.jpg"},
+
+
+{ "product_name": "Brook Bond Red Label Cardamom Tea Premix, ",
+"category": "beverages",
+"price":  350,
+
+"desc": "Brooke Bond Red Label Tea is a blend CTC tea with best quality leaves; processed in the unique Brooke Bond Tea Excellence Centre . ... Every cup of Red Label is brewed with the best-chosen tea leaves; that ensure your tea has strength, rich colour, and refreshing taste.Pack Size: 1 Kg,Packaging Type: Packets, Form: Powder, Available Packaging Size: 1 kg",
+"made_in": "India",
+"image_2": "shop/images/red label.jpg"},
+
+{ "product_name": "Brook Bond Taj Mahal ",
+"category": "beverages",
+"price":  580,
+
+"desc": "The Brooke Bond Taj Mahal Tea House is a tea house and restaurant owned and operated by Hindustan Unilever Limited Pack Size: 1 Kg,Packaging Type: Packets,Form: Powder,Available Packaging Size: 1 kg",
+"made_in": "India",
+"image_1": "shop/images/taj.jpg"},
+
+{"product_name": "Nescafe Coffee Nescafé Classic Coffee, ",
+"category": "beverages",
+"price":  89,
+"desc": "Nescafé is a brand of coffee made by Nestlé. It comes in many different forms. Packaging Type: Packets 100g Dawn Jar by Nescafé,Form: Powder,Available Packaging Size: 100g",
+"made_in": "India",
+"image_1": "shop/images/nescafe.jpg"},
+
+{"product_name": "Nescafe Coffee Nescafé Classic Coffee, ",
+"category": "beverages",
+"price":  300,
+
+"desc": "Nescafé is a brand of coffee made by Nestlé. It comes in many different forms.Packaging Type: Packets 200g,Form: Powder,Available Packaging Size: 200g",
+"made_in": "India",
+"image_11": " shop/images/200g nescafe.jpg"
+},
+
+{ "product_name": "Bru Coffee, ",
+"category": "beverages",
+"price":  100,
+
+"desc": "Bru Gold is 100% pure coffee, a fine blend of the best Arabica and Robusta beans carefully selected from the best South Indian plantations that are roasted to perfection to give you a cup of coffee which is truly authentic.    Packaging Type: jar,Form: Powder,Available Packaging Size: 100g",
+"made_in": "India",
+"image": "shop/images/bru.jpg"
+},
+
+{
+  "product_name": "Bru Coffee, ",
+"category": "beverages",
+"price":  365,
+
+"desc": "Bru Gold is 100% pure coffee, a fine blend of the best Arabica and Robusta beans carefully selected from the best South Indian plantations that are roasted to perfection to give you a cup of coffee which is truly authentic.  Packaging Type: packets, Form: Powder, Available Packaging Size: 1 kg",
+"made_in": "India",
+"image_1": "shop/images/1kg bru.jpg"
+ },
+
+
+{"product_name": "Britannia Fruity Cake ",
+"category": "snacks",
+"price":  10,
+ "desc": "Britannia Fruity Cake is spongy and juicy and melts in your mouth. ... It is suitable for all ages and 100% vegetarian and these cakes are one of a variety. Britannia lip-smacking fruitcake can be used for breakfast or teatime or to grab a quick and tasty bite during the day.  Packaging Type: packets,Available Packaging Size: 25 g,",
+"made_in": "India",
+"image_1": "shop/images/25g cake.jpg"},
+
+
+{"product_name": "Kurkure namkeen Masala Munch",
+"category": "snacks",
+"price":  20,
+ "desc": "Kurkure is a brand of corn puffs, produced and developed by PepsiCo India, the Indian division of PepsiCo   Packaging Type: packets, Available Packaging Size: 95 g",
+"made_in": "India",
+"image_1": "shop/images/kurkure1.jpg"},
+
+{"product_name": "Kurkure namkeen- Chilli Chatka",
+"category": "snacks",
+"price": 75,
+"desc": "Kurkure is a brand of corn puffs, produced and developed by PepsiCo India, the Indian division of PepsiCo . Packaging Type: packets, Available Packaging Size: 1kg",
+"made_in": "India",
+"image": "shop/images/kurkure3.jpg",
+"image_1": "shop/images/kurkure2.jpg"},
+
+{"product_name": "Kurkure namkeen- Red Tomato",
+"category": "snacks",
+"price":75,
+ "desc": "Kurkure is a brand of corn puffs, produced and developed by PepsiCo India, the Indian division of PepsiCo   Packaging Type: packets, Available Packaging Size: 1 kg",
+"made_in": "India",
+"image_1": "shop/images/kurkure4.jpg"},
+
+{"product_name": "Takatak namkeen ",
+"category": "snacks",
+"price":  5,
+"desc": "Kurkure is a brand of corn puffs, produced and developed by PepsiCo India, the Indian division of PepsiCo, Packaging Type: packets, Available Packaging Size: 21.5 g",
+"made_in": "India",
+"image_1": "shop/images/takatak.jpg"},
+
+{"product_name": "Uncle Chips namkeen ",
+"category": "snacks",
+"price":  5,
+ "desc": "Bole mere lips. I love Uncle Chipps, Uncle Chipps is a brand of potato chips that is marketed in India. It was launched on 1992 by Amrit Agro Ltd. which was later taken over by Frito Lay (owned by PepsiCo), India in 2000.",
+ "desc": "Uncle Chipps",
+ "made_in": "India",
+"image_!": "shop/images/Uc1.jpg"},
+
+{"product_name": "Uncle Chips-Spicy treat ",
+"category": "snacks",
+"price":  5,
+"desc": "Uncle Chips is a brand of potato chips that is marketed in India. It was launched on 1992 by Amrit Agro Ltd. which was later taken over by Frito Lay (owned by PepsiCo), India in 2000.Tagline:Bole mere lips. I love Uncle Chips,,Packaging Type: packets, Available Packaging Size: 21.5 g",
+"made_in": "India",
+"image_2": "shop/images/Uc1.jpg",
+"image_1": "shop/images/Uc2.jpg"},
+
+{"product_name": "Uncle Chips - Plain salted",
+"category": "snacks",
+"price":  5,
+
+"desc": "Uncle Chips is a brand of potato chips that is marketed in India. It was launched on 1992 by Amrit Agro Ltd. which was later taken over by Frito Lay (owned by PepsiCo), India in 2000.  Packaging Type: packets, Available Packaging Size: 21.5 g Tagline: Bole mere lips. I love Uncle Chipps",
+
+"made_in": "India",
+"image_1": "shop/images/Uc blue.jpg"},
+
+{"product_name": "Uncle Chips - Plain salted",
+"category": "snacks",
+"price":  20,
+
+"desc": "Uncle Chips is a brand of potato chips that is marketed in India. It was launched on 1992 by Amrit Agro Ltd. which was later taken over by Frito Lay (owned by PepsiCo), India in 2000.Tagline:Bole mere lips. I love Uncle Chips", "made_in": "India",
+"image_1": "shop/images/Uc blue20.jpg"},
+
+{"product_name": "Uncle Chips - Spicy Treat",
+"category": "snacks",
+"price":  20,
+"desc": "Uncle Chips is a brand of potato chips that is marketed in India. It was launched on 1992 by Amrit Agro Ltd. which was later taken over by Frito Lay (owned by PepsiCo), India in 2000.",
+"made_in": "India",
+"image_1": "shop/images/Uc rs 20.jpg" }
+]
+
+
